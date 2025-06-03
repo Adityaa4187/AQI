@@ -69,5 +69,6 @@ The model shows excellent convergence, with training and validation losses decre
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
+
 You're free to use, modify, and distribute the code with proper attribution.
