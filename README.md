@@ -7,7 +7,7 @@ The hybrid model leverages both spatial and temporal patterns in pollution data.
 
 ## 📁 Dataset:
 
-The dataset (station_hour.csv) is stored on Google Drive and must be downloaded locally before execution. It includes hourly air quality data from multiple Indian cities between 2015 and 2020.
+The dataset (station_hour.csv) is available in the repo and must be downloaded locally before execution. It includes hourly air quality data from multiple Indian cities between 2015 and 2020.
 
 ## 🗂️ Project File Structure
     ├── main.py                 # Main script for training and evaluation
@@ -72,3 +72,4 @@ The model shows excellent convergence, with training and validation losses decre
 This project is licensed under the Apache 2.0 License.
 
 You're free to use, modify, and distribute the code with proper attribution.
+
