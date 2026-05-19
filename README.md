@@ -91,8 +91,7 @@ Place the dataset in the project root directory before running.
 
 Training and validation loss converge steadily with no signs of overfitting. Early stopping restores best weights automatically.
 
-![Learning Curves](img width="1275" height="701" alt="Image" src="https://github.com/user-attachments/assets/12cb39cd-e4b7-4672-9fa1-b9205fcceee2")
-
+![Learning Curves](https://github.com/user-attachments/assets/12cb39cd-e4b7-4672-9fa1-b9205fcceee2)
 ---
 
 ## 📈 Prediction Visualisation
