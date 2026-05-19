@@ -91,7 +91,8 @@ Place the dataset in the project root directory before running.
 
 Training and validation loss converge steadily with no signs of overfitting. Early stopping restores best weights automatically.
 
-![Learning Curves](https://github.com/user-attachments/assets/acc74529-117c-49f8-bc40-b620d2b01206)
+![Learning Curves](<img width="1501" height="817" alt="learning_curves" src="https://github.com/user-attachments/assets/582eb528-55c4-4069-9680-caff3f9ddd20" />
+)
 
 ---
 
@@ -102,6 +103,12 @@ Monthly AQI accumulation chart (2015–2020):
 ![Figure 4 Month-wise plot of Average AQI](https://github.com/user-attachments/assets/11bbb98f-e3a1-490f-ab81-ece17f2f3568)
 
 ---
+## 📈 Prediction Results
+
+### Full Test Set — Actual vs Predicted AQI
+![Actual vs Predicted AQI](plots/actual_vs_predicted.png)
+
+The predicted values (orange) closely track the actual AQI (blue) across the full held-out test set (~9,200 samples). The model captures seasonal trends and general pollution dynamics well, with expected underestimation at extreme peak values.
 
 ## 🚀 Running the Project
 
